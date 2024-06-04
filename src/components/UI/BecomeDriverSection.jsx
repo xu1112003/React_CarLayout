@@ -12,10 +12,10 @@ const BecomeDriverSection = () => {
                 </Col>
                 <Col lg='6' sm='12' md='6'>
                     <h2 className="section__title become__driver-title">
-                        Do you want to earn with us? So Don't be late
+                        Đăng kí ngay để hợp tác cùng chúng tôi
                     </h2>
                     <button className='btn become__driver-btn mt-4'>
-                        Become a Driver
+                        Trở thành tài xế
                     </button>
                 </Col>
             </Row>

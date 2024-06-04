@@ -14,11 +14,11 @@ const CarListing = () => {
             <Col lg='12'>
               <div className='d-flex align-items-center gap-3 mb-5'>
                 <span className='d-flex align-items-center gap-2'>
-                  <i className="ri-sort-asc"></i> Sort By
+                  <i className="ri-sort-asc"></i> Sắp xếp
                 </span>
                 <select name="" id="">
-                  <option value="low">Low to High</option>
-                  <option value="high">High to Low</option>
+                  <option value="low">Từ thấp đến cao</option>
+                  <option value="high">Từ cao xuống thấp</option>
                 </select>
               </div>
             </Col>

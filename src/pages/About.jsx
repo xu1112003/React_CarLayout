@@ -24,7 +24,7 @@ const About = () => {
             <Col lg='6' md='6' sm='12'>
               <div className="about__page-content">
                 <h2 className='section__title'>
-                  We Are Committed To Provide Safe Ride Solutions
+                Chúng tôi cam kết cung cấp các giải pháp đi xe an toàn
                 </h2>
                 <p className="section__description">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor soluta quas doloremque nobis, eos nihil quos doloribus perspiciatis saepe omnis architecto unde voluptates maxime id ut inventore mollitia et quasi.
@@ -38,7 +38,7 @@ const About = () => {
                   </span>
 
                   <div>
-                    <h6 className="section__subtitle">Need Any Help?</h6>
+                    <h6 className="section__subtitle">Nếu bạn cần giúp đỡ</h6>
                     <h4>+00123456789</h4>
                   </div>
                 </div>
@@ -54,8 +54,8 @@ const About = () => {
         <Container>
           <Row>
             <Col lg="12" className="mb-5 text-center">
-              <h6 className="section__subtitle">Experts</h6>
-              <h2 className="section__title">Our Members</h2>
+              <h6 className="section__subtitle">Chuyên gia</h6>
+              <h2 className="section__title">Thành viên của chúng tôi</h2>
             </Col>
             <OurMembers />
           </Row>

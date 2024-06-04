@@ -91,8 +91,8 @@ const Footer = () => {
                 <Col lg="12">
                     <div className="footer__bottom">
                     <p className="section__description d-flex align-items-center justify-content-center gap-1 pt-4">
-                        <i class="ri-copyright-line"></i>Copyright {year}, Developed by
-                        <span>Quang Chiến</span>. All rights reserved.
+                        <i class="ri-copyright-line"></i>Bản quyền năm {year}, được phát triển bới
+                        <span>Quang Chiến</span>
                     </p>
                     </div>
                 </Col>

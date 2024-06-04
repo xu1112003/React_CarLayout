@@ -7,12 +7,12 @@ const PaymentMethod = () => {
     <>
       <div className="payment">
           <label htmlFor="" className='d-flex align-items-center gap-2'>
-            <input type="radio" /> Direct Bank Transfer
+            <input type="radio" /> Thanh toán tiền mặt
           </label>
       </div>
       <div className="payment mt-3">
         <label htmlFor="" className='d-flex align-items-center gap-2'>
-          <input type="radio" /> Cheque Payment
+          <input type="radio" /> Chuyển khoản ngân hàng
         </label>
       </div>
       <div className="payment mt-3 d-flex align-items-center justify-content-between">
@@ -28,7 +28,7 @@ const PaymentMethod = () => {
         <img src={paypal} alt="" />
     </div>
     <div className='payment mt-3'>
-      <button>Reserve Now</button>
+      <button>Thanh toán ngay</button>
     </div>
     </>
     

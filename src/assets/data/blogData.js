@@ -6,10 +6,10 @@ import img03 from "../all-images/blog-img/blog-3.jpg";
 const blogData = [
   {
     id: 1,
-    title: "The best way to drive cars",
-    author: "Muhib",
-    date: "12 Dec, 2020",
-    time: "9pm",
+    title: "Cách tốt nhất để học lái xe",
+    author: "Quang Chiến",
+    date: "12 tháng 12 năm 2020",
+    time: "9h sáng",
     imgUrl: img01,
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.  Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
@@ -19,9 +19,9 @@ const blogData = [
 
   {
     id: 2,
-    title: "If your car battery is down",
-    author: "Muhib",
-    date: "12 Dec, 2020",
+    title: "Nếu xe của bạn hết điện",
+    author: "Tiến Đạt",
+    date: "12 tháng 11 năm 2020",
     time: "9pm",
     imgUrl: img02,
     description:
@@ -32,9 +32,9 @@ const blogData = [
 
   {
     id: 3,
-    title: "The best way to give trip",
-    author: "Muhib",
-    date: "12 Dec, 2020",
+    title: "Làm sao để có một chuyến đi an toàn",
+    author: "Quý Độ",
+    date: "11 tháng 1 năm 2020",
     time: "9pm",
     imgUrl: img03,
     description:

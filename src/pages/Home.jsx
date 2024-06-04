@@ -38,8 +38,8 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg='12' className='mb-5'>
-              <h6 className="section__subtitle">See our</h6>
-              <h2 className='section__title'>Popular Service</h2>
+              <h6 className="section__subtitle">Xem thông tin</h6>
+              <h2 className='section__title'>Dịch vụ phổ biến</h2>
             </Col>
 
             <ServiceList/>
@@ -53,8 +53,8 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg='12' className='text-center mb-5'>
-              <h6 className='section__subtitle'>Come with</h6>
-              <h2 className='section__title'>Hot Offers</h2>
+              <h6 className='section__subtitle'>Đến với</h6>
+              <h2 className='section__title'>Dịch vụ nổi bật</h2>
             </Col>
 
             {
@@ -74,8 +74,8 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg="12" className="mb-5 text-center">
-              <h6 className="section__subtitle">Explore our blogs</h6>
-              <h2 className="section__title">Latest Blogs</h2>
+              <h6 className="section__subtitle">Khám phá tin tức</h6>
+              <h2 className="section__title">Bài viết mới nhất</h2>
             </Col>
 
             <BlogList />
